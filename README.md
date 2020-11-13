@@ -2,7 +2,7 @@ Prototipo de videojuego cuya finalidad es la de ayudar a los estudiantes a que a
 
 El videojuego está desarrollado en Unity y tanto la música, los efectos de sonido y el arte utilizado fueron descargados gratuitamente del Unity Asset Store.
 
-Para más información:
+### **Para más información visita:**
 https://acytra.itch.io/aventura-de-palabras
 
 # **Imágenes:**
