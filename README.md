@@ -5,7 +5,7 @@ El videojuego está desarrollado en Unity y tanto la música, los efectos de son
 Para más información:
 https://acytra.itch.io/aventura-de-palabras
 
-#**Imágenes:**
+# **Imágenes:**
 ![1](1.png)
 ![2](2.png)
 ![3](3.png)
